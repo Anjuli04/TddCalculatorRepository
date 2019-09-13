@@ -1,0 +1,10 @@
+C:\AnjuliTraining\WebApi\TddCalApp\TddCalApp\bin\Debug\netcoreapp2.1\TddCalApp.deps.json
+C:\AnjuliTraining\WebApi\TddCalApp\TddCalApp\bin\Debug\netcoreapp2.1\TddCalApp.runtimeconfig.json
+C:\AnjuliTraining\WebApi\TddCalApp\TddCalApp\bin\Debug\netcoreapp2.1\TddCalApp.runtimeconfig.dev.json
+C:\AnjuliTraining\WebApi\TddCalApp\TddCalApp\bin\Debug\netcoreapp2.1\TddCalApp.dll
+C:\AnjuliTraining\WebApi\TddCalApp\TddCalApp\bin\Debug\netcoreapp2.1\TddCalApp.pdb
+C:\AnjuliTraining\WebApi\TddCalApp\TddCalApp\obj\Debug\netcoreapp2.1\TddCalApp.csproj.CoreCompileInputs.cache
+C:\AnjuliTraining\WebApi\TddCalApp\TddCalApp\obj\Debug\netcoreapp2.1\TddCalApp.AssemblyInfoInputs.cache
+C:\AnjuliTraining\WebApi\TddCalApp\TddCalApp\obj\Debug\netcoreapp2.1\TddCalApp.AssemblyInfo.cs
+C:\AnjuliTraining\WebApi\TddCalApp\TddCalApp\obj\Debug\netcoreapp2.1\TddCalApp.dll
+C:\AnjuliTraining\WebApi\TddCalApp\TddCalApp\obj\Debug\netcoreapp2.1\TddCalApp.pdb

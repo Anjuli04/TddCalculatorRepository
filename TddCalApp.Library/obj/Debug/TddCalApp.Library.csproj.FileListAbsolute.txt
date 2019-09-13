@@ -3,4 +3,3 @@ C:\AnjuliTraining\WebApi\TddCalApp\TddCalApp.Library\bin\Debug\TddCalApp.Library
 C:\AnjuliTraining\WebApi\TddCalApp\TddCalApp.Library\obj\Debug\TddCalApp.Library.csproj.CoreCompileInputs.cache
 C:\AnjuliTraining\WebApi\TddCalApp\TddCalApp.Library\obj\Debug\TddCalApp.Library.dll
 C:\AnjuliTraining\WebApi\TddCalApp\TddCalApp.Library\obj\Debug\TddCalApp.Library.pdb
-C:\AnjuliTraining\WebApi\TddCalApp\TddCalApp.Library\obj\Debug\TddCalApp.Library.csprojAssemblyReference.cache
